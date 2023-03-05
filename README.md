@@ -6,7 +6,11 @@
 
 
 ### Hey there 😊
-<br/>
+
+<br />
+
+Hi, I'm [Abdelmoughit Elbouhmydy](https://www.linkedin.com/in/abdelmoughit-elbouhmydy-0109231b9/), full stack developer and mobile developer and graphic designer.
+
 <a href="https://www.instagram.com/elbouhmydyabdelmoughit_164/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -20,10 +24,9 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
-
-Hi, I'm [Abdelmoughit Elbouhmydy](https://www.linkedin.com/in/abdelmoughit-elbouhmydy-0109231b9/), full stack developer and mobile developer and graphic designer
-
+<br/>
+<br/>
+<br/>
   
 - 💼 any freelance work? do reach, [email](elbouhmydyabdelmoughit@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
