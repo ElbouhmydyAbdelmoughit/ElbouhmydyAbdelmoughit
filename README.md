@@ -7,8 +7,6 @@
 
 ### Hey there 😊
 <br/>
-<br/>
-<br/>
 <a href="https://www.instagram.com/elbouhmydyabdelmoughit_164/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -23,14 +21,15 @@
 </a>
 
 <br />
-<br/>
-<br/>
 
 Hi, I'm [Abdelmoughit Elbouhmydy](https://www.linkedin.com/in/abdelmoughit-elbouhmydy-0109231b9/), full stack developer and mobile developer and graphic designer
 
   
 - 💼 any freelance work? do reach, [email](elbouhmydyabdelmoughit@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+
+<br/>
+<br/>
 
 **languages and tools:**  
 
