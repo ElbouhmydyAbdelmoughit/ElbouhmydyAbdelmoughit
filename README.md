@@ -2,7 +2,11 @@
 
 
 
-### Hey there 
+
+
+
+### Hey there 😊
+
 <a href="https://www.instagram.com/elbouhmydyabdelmoughit_164/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -20,7 +24,7 @@
 
 <br />
 
-hi, i'm [Abdelmoughit Elbouhmydy](https://www.linkedin.com/in/abdelmoughit-elbouhmydy-0109231b9/), full stack developer and mobile developer and graphic designer
+Hi, I'm [Abdelmoughit Elbouhmydy](https://www.linkedin.com/in/abdelmoughit-elbouhmydy-0109231b9/), full stack developer and mobile developer and graphic designer
 
   
 - 💼 any freelance work? do reach, [email](elbouhmydyabdelmoughit@gmail.com) :)
