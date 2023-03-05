@@ -20,8 +20,6 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ElbouhmydyAbdelmoughit.ElbouhmydyAbdelmoughit)
-
 <br />
 
 Hi, I'm [Abdelmoughit Elbouhmydy](https://www.linkedin.com/in/abdelmoughit-elbouhmydy-0109231b9/), full stack developer and mobile developer and graphic designer
