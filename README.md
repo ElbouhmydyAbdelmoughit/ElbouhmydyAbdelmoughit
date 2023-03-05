@@ -6,7 +6,9 @@
 
 
 ### Hey there 😊
-
+<br/>
+<br/>
+<br/>
 <a href="https://www.instagram.com/elbouhmydyabdelmoughit_164/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -21,6 +23,8 @@
 </a>
 
 <br />
+<br/>
+<br/>
 
 Hi, I'm [Abdelmoughit Elbouhmydy](https://www.linkedin.com/in/abdelmoughit-elbouhmydy-0109231b9/), full stack developer and mobile developer and graphic designer
 
@@ -36,6 +40,8 @@ Hi, I'm [Abdelmoughit Elbouhmydy](https://www.linkedin.com/in/abdelmoughit-elbou
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br/>
+<br/>
 
 📈 my github stats
 
